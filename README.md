@@ -14,7 +14,7 @@ Feel free to connect with me on:
 📌 [**GitHub Portfolio**](https://github.com/Lillian1070)
 
 ### ⚡ Fun Fact  
-When I'm not coding, you can find me perfecting latte art ☕ and experimenting with new baking recipes 🍪. I also love collage art & photography, combining creativity with my techy side!
+When I'm not coding, you can find me perfecting latte art ☕ and experimenting with new baking recipes 🍪. I also enjoy collage art 🎨 & photography 📷!
 
 <!---
 Lillian1070/Lillian1070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
