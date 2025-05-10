@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lillian (@Lillian1070)  
-🔹 **Data Scientist | Data Visualization Enthusiast | Python & SQL Practitioner**  
+🔹 **Data Analytics Specialist | Data Visualization Enthusiast | Python & SQL Practitioner**  
 
 ### 👀 Interests  
 I’m passionate about **data visualization, analytics, and storytelling**. I enjoy making complex data more accessible and insightful. My interests include **interactive dashboards, visualization techniques, and workflow automation**.  
