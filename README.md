@@ -16,6 +16,7 @@ I’m passionate about **data visualization, analytics, and storytelling**. I en
 
 ### 📫 How to Reach Me  
   📌 [**Email**](mailto:lillianlin1070@gmail.com) 
+  
   📌 [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
 
 ### ⚡ Fun Fact  
