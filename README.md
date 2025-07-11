@@ -16,7 +16,7 @@ I’m passionate about **data visualization, analytics, and storytelling**. I en
 
 ### 📫 How to Reach Me  
   📌 [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
-  📌 [**GitHub Portfolio**](https://github.com/Lillian1070)
+  📌 [**Email**](mailto:lillianlin1070@gmail.com)
 
 ### ⚡ Fun Fact  
 When I'm not coding, you can find me perfecting latte art ☕ or experimenting with new baking recipes 🍪, which both help sharpen my attention to detail and creativity. Recently, I’ve also started strength training 🏋️‍♀️ to build discipline and resilience!
