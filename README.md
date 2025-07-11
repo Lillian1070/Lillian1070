@@ -15,8 +15,8 @@ I’m passionate about **data visualization, analytics, and storytelling**. I en
 - **Process Optimization**: Automated the data formatting process, leveraging VBA macros to introduce parallel running techniques that cut formatting time by 80%, significantly improving productivity and delivery speed.
 
 ### 📫 How to Reach Me  
-  📌 [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
   📌 [**Email**](mailto:lillianlin1070@gmail.com)
+  📌 [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
 
 ### ⚡ Fun Fact  
 When I'm not coding, you can find me perfecting latte art ☕ or experimenting with new baking recipes 🍪, which both help sharpen my attention to detail and creativity. Recently, I’ve also started strength training 🏋️‍♀️ to build discipline and resilience!
