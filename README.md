@@ -9,8 +9,6 @@ I love **data visualization, analytics, and storytelling**, especially turning c
 - Leveling up my **data analysis** and **visualization** skills to tell even better stories
 
 ### 💡 Recent Work  
-Here’s a snapshot of how I’ve been turning data into impact:  
-
 - **Statistical Modeling**: Used clustering, segmentation, and factor analysis to craft actionable customer profiles, driving smarter market strategies and better performance.  
 - **Data Visualization**: Designed interactive dashboards to transform complex data into clear visuals, boosting decision-making and efficiency by 25%.  
 - **Database Management**: Led ETL workflow optimization, improving efficiency by 35% and speeding up data processing with greater accuracy.  
