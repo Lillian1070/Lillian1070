@@ -2,7 +2,7 @@
 🔹 **Data Analytics Specialist | Data Visualization Enthusiast | Python & SQL Practitioner**  
 
 ### 👀 What I’m Passionate About  
-I love **data visualization, analytics, and storytelling**, especially turning complex data into clear, actionable insights. I’m also a big fan of **interactive dashboards**, clever **visualization techniques**, and streamlining workflows through **automation**.
+I love **data visualization, analytics, and storytelling**, especially turning complex data into clear, actionable insights. I’m also a big fan of **interactive dashboards**, clever **visualization techniques**, and **streamlining workflows** through **automation**.
 
 ### 🌱 What I’m Exploring  
 - Diving deeper into **SQL** and **Python** for data science adventures  
