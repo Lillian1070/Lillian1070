@@ -1,25 +1,27 @@
 ## 👋 Hi, I’m Lillian (@Lillian1070)  
 🔹 **Data Analytics Specialist | Data Visualization Enthusiast | Python & SQL Practitioner**  
 
-### 👀 Interests  
-I’m passionate about **data visualization, analytics, and storytelling**. I enjoy making complex data more accessible and insightful. My interests include **interactive dashboards, visualization techniques, and workflow automation**.  
+### 👀 What I’m Passionate About  
+I love **data visualization, analytics, and storytelling**, especially turning complex data into clear, actionable insights. I’m also a big fan of **interactive dashboards**, clever **visualization techniques**, and streamlining workflows through **automation**.
 
-### 🌱 Currently Learning  
-- Advanced **SQL** and **Python** for data science  
-- Strengthening **data analysis** and **visualization** techniques  
+### 🌱 What I’m Exploring  
+- Diving deeper into **SQL** and **Python** for data science adventures  
+- Leveling up my **data analysis** and **visualization** skills to tell even better stories
 
-### 💡 Recent Work
-- **Statistical Modeling**: Utilized advanced techniques like clustering, segmentation analysis, and factor analysis to generate actionable customer profiles, driving optimized targeting strategies and improved marketing performance.
-- **Data Visualization**: Designed and developed interactive dashboards that transformed complex product data into intuitive visuals, enhancing decision-making and increasing process efficiency by 25%.
-- **Database Management**: Spearheaded ETL workflow optimization, achieving a 35% boost in database management efficiency and accelerating data processing speed and accuracy.
-- **Process Optimization**: Automated the data formatting process, leveraging VBA macros to introduce parallel running techniques that cut formatting time by 80%, significantly improving productivity and delivery speed.
+### 💡 Recent Work  
+Here’s a snapshot of how I’ve been turning data into impact:  
+
+- **Statistical Modeling**: Used clustering, segmentation, and factor analysis to craft actionable customer profiles, driving smarter market strategies and better performance.  
+- **Data Visualization**: Designed interactive dashboards to transform complex data into clear visuals, boosting decision-making and efficiency by 25%.  
+- **Database Management**: Led ETL workflow optimization, improving efficiency by 35% and speeding up data processing with greater accuracy.  
+- **Process Optimization**: Automated data formatting with VBA macros and parallel processing, slashing formatting time by 80% and boosting productivity.
 
 ### 📫 How to Reach Me  
-- [**Email**](mailto:lillianlin1070@gmail.com)  
-- [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
+- Drop me a message at [**Email**](mailto:lillianlin1070@gmail.com)  
+- Find me on [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
 
 ### ⚡ Fun Fact  
-When I'm not coding, you can find me perfecting latte art ☕ or experimenting with new baking recipes 🍪, which both help sharpen my attention to detail and creativity. Recently, I’ve also started strength training 🏋️‍♀️ to build discipline and resilience!
+When I’m not crunching data, I’m perfecting latte art ☕, baking tasty treats 🍪, or hitting the gym 🏋️‍♀️ to build strength and discipline!
 
 <!---
 Lillian1070/Lillian1070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
