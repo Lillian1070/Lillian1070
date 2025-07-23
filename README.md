@@ -21,7 +21,7 @@ Here’s a snapshot of how I’ve been turning data into impact:
 - Find me on [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
 
 ### ⚡ Fun Fact  
-When I’m not crunching data, I’m perfecting latte art ☕, baking tasty treats 🍪, or hitting the gym 🏋️‍♀️ to build strength and discipline!
+When I’m not crunching data, I’m perfecting latte art ☕, experimenting with new baking recipes 🍪, or hitting the gym 🏋️‍♀️ to build strength and discipline!
 
 <!---
 Lillian1070/Lillian1070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
