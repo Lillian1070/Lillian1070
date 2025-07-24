@@ -15,8 +15,8 @@ I love **data visualization, analytics, and storytelling**, especially turning c
 - **Process Optimization**: Automated data formatting with VBA macros and parallel processing, slashing formatting time by 80% and boosting productivity.
 
 ### 📫 How to Reach Me  
-- Drop me a message at [**Email**](mailto:lillianlin1070@gmail.com)  
-- Find me on [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
+- [**Email**](mailto:lillianlin1070@gmail.com)  
+- [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
 
 ### ⚡ Fun Fact  
 When I’m not crunching data, I’m perfecting latte art ☕, experimenting with new baking recipes 🍪, or hitting the gym 🏋️‍♀️ to build strength and discipline!
