@@ -19,7 +19,7 @@ I love **data visualization, analytics, and storytelling**, especially turning c
 - [**LinkedIn**](http://www.linkedin.com/in/lillian-lin-/)  
 
 ### ⚡ Fun Fact  
-When I’m not crunching data, I’m perfecting latte art ☕, experimenting with new baking recipes 🍪, or hitting the gym 🏋️‍♀️ to build strength and discipline!
+When I’m not crunching data, you’ll find me perfecting latte art ☕, experimenting with new baking recipes 🍪, or hitting the gym 🏋️‍♀️ to build strength and discipline!
 
 <!---
 Lillian1070/Lillian1070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
