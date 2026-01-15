@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Lillian (@Lillian1070)  
-🔹 **Data Analytics Specialist | Data Visualization Enthusiast | Python & SQL Practitioner**  
+🔹 **Marketing Analytics & Customer Strategy Insights | Data Storytelling | SQL & Python**  
 
 ### 👀 What I’m Passionate About  
 I love **data visualization, analytics, and storytelling**, especially turning complex data into clear, actionable insights. I’m also a big fan of **interactive dashboards**, clever **visualization techniques**, and **streamlining workflows** through **automation**.
